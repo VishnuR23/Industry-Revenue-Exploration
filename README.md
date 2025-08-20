@@ -44,4 +44,8 @@ This project focuses on analyzing the **revenue of large corporations** by inves
 ---
 
 ## 📂 Project Structure  
-
+├── data/ # Collected and cleaned datasets
+├── notebooks/ # Jupyter notebooks with scraping, analysis, and modeling
+├── src/ # Python scripts for scraping and ML pipelines
+├── visualizations/ # Plots and charts generated during analysis
+└── README.md # Project documentation
